@@ -11,4 +11,4 @@ With Gmail Authentication
 
 You can check the demo here :
 
-[https://clone-d9b7a.web.app/](https://clone-d9b7a.web.app/)
+https://gmail.junsay.me/
